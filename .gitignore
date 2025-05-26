@@ -193,3 +193,6 @@ Makefile
 
 # Visual Studio Code
 .vscode/
+
+# Misc
+*CrSDK*
