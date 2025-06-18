@@ -196,3 +196,7 @@ Makefile
 
 # Misc
 *CrSDK*
+*test*
+*app*
+*external*
+bindings/*
